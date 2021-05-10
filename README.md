@@ -6,7 +6,8 @@ Get notified to your Telegram Bot whenever vaccine slot is availble to your Pinc
 - Search by District
 - Allow vaccine filters 
 
-For Linux/Mac users only
+
+### For Linux/Mac users only
 ## Steps:
 ### 1. install python package
 ```
