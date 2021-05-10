@@ -36,4 +36,4 @@ crontab -e
 
 ### 5. Done!
 
-Make sure you change you pincode in the code file.
+Make sure your change you pincode in the code file.
