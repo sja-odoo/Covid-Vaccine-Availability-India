@@ -1,5 +1,10 @@
 # Covid-Vaccine-Availability-India
 Check Vaccine Availability in India
+Get notified to your Telegram Bot whenever vaccine slot is availble to your Pincode
+
+#### Future imrovements
+- Search by District
+- Allow vaccine filters 
 
 For Linux/Mac users only
 ## Steps:
