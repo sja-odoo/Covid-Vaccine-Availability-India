@@ -1,5 +1,5 @@
 # Check Vaccine Availability in India
-Get notified to your Telegram Bot whenever vaccine slot is availble to your Pincode
+Get notified to your Telegram Bot whenever vaccine slot is availble for your Pincode
 
 #### Future imrovements
 - Search by District
