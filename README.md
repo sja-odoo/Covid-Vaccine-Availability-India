@@ -12,12 +12,18 @@ More info here: https://pypi.org/project/telegram-send/#examples
 ### 2. Create a Telegram Bot
 Follow this: https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580
 
-### 3. Give executable permision to the python file
+### 3. Congigure Telegram Bot
+```
+telegram-send --configure
+```
+Add token to allow this program to send notification/messages to newly created bot
+
+### 4. Give executable permision to the python file
 ```
 sudo chmod +x check_vaccine_availability.py
 ```
 
-### 4. Create a Cron job in linux system
+### 5. Create a Cron job in linux system
 Command line:
 ```
 crontab -e
