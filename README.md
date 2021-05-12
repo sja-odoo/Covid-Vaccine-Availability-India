@@ -2,7 +2,6 @@
 Get notified to your Telegram Bot whenever vaccine slot is availble for your Pincode
 
 #### Future imrovements
-- Search by District
 - Allow vaccine filters 
 
 
